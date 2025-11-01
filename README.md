@@ -8,7 +8,7 @@ Why does this matter? Because this is currently the lowest entry point into Band
 
 ---
 
-![BandwagonHost DC6 CN2 GIA plan specifications showing configuration details](image/40249349.webp)
+<img width="1000" height="318" alt="image" src="https://github.com/user-attachments/assets/0abf038b-5f45-4569-bb53-09d1d80ef237" />
 
 ## The Basics: What You're Actually Getting
 
